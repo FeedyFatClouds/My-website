@@ -1,5 +1,5 @@
 {
-  "name": "feedy.se",
+  "name": "feedy.tech",
   "version": "1.0.0",
   "description": "How to use npm",
   "main": "index.js",
@@ -13,9 +13,9 @@
   "author": "Alexzander Dalby",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FeedyFatClouds/feedy.se/issues"
+    "url": "https://github.com/FeedyFatClouds/feedy.tech/issues"
   },
-  "homepage": "https://github.com/FeedyFatClouds/feedy.se#readme",
+  "homepage": "https://github.com/FeedyFatClouds/feedy.tech#readme",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "jquery": "^3.3.1",

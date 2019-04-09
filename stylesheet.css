@@ -31,6 +31,27 @@ padding-left: 10%;
   display: inline-block;
   line-height: 80px;
 }
+.img-info{
+
+
+}
+.img-info h2{
+  font-family: arial; 
+  padding: 30px 30px 30px;
+  font-size: 35px;
+  color: #111;
+  line-height: 44px;
+}
+.img-info p{
+  padding: 0px 30px 30px;
+  font-family: arial;
+  font-size: 20px;
+  color: #111;
+  line-height: 24px;
+}
+.img-me{
+  font-family: arial;
+}
 
 .footer, nav, ul, li, a {
    display: inline-block;
@@ -57,6 +78,7 @@ padding-left: 10%;
 
 .pageContentWrapper{
   margin-bottom:200px;/* Höjd på footer*/
+  width: 100%;
 }
 
 .footer{
@@ -66,6 +88,7 @@ padding-left: 10%;
     right: 0;
     height: auto;
     background:#222;
+    
 }
 .footer p{
   color: white;
@@ -95,22 +118,15 @@ padding-left: 10%;
 #ommigvisisted a:visited {
   color: #33B935;
 }
-#utbildningvisited a:visited {
+#homeVisited a:visited {
   color:  #33B935;
 }
-#navStartsida :visited {
-  color: #33B935;
-}
-#navSkills a:visited {
+#gamevisited a:visited {
   color:  #33B935;
 }
-#navOmmig a:visited {
-  color: #33B935;
+#educationVisit a:visited {
+  color:  #33B935;
 }
-#navUtbildning a:visited {
-  color: #33B935;
-}
-
 .bottomlinks a:active{
   color: green;
 }
